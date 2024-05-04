@@ -1,3 +1,0 @@
-LICENSE.txt
-readme.txt
-test.txt
